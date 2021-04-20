@@ -8,7 +8,7 @@ namespace SelfDriving_car_Simu
         public static int count = 0;
         public int id = count;
         public double speed = 0;
-        public int position = 0;//px
+        public double position = 0;//px
         public List<int> NeighboursLeft = new List<int>();
         public List<int> NeighboursFront = new List<int>();
         public Road road; 
@@ -41,17 +41,39 @@ namespace SelfDriving_car_Simu
                     break;
                 }
             }
+
+            checkEndRoad();
         }
 
         public void checkFeu(Feu f)
-        {
-            if (f.color == COLOR.ROUGE)
+        {   if (speed > 0)
             {
-                speed /= 4;
+                if (f.color == COLOR.ROUGE)
+                {
+                    speed -= 1;
+                }
+                else if (f.color == COLOR.ORANGE)
+                {
+                    speed -= 0.5;
+                }
             }
-            else if (f.color == COLOR.ORANGE)
+            else
             {
-                speed /= 2;
+                if (f.color == COLOR.VERT)
+                {
+                    speedUp();
+                }
+            }
+        }
+
+        public void checkEndRoad()
+        {
+            if (speed > 0)
+            {
+                if (road.length <= this.position + 10)
+                {
+                    speed -= 1;
+                }
             }
         }
 

@@ -7,9 +7,11 @@ namespace SelfDriving_car_Simu
         static void Main(string[] args)
         {
             Vehicule car1 = new Vehicule();
+            Vehicule car2 = new Vehicule();
             Road road1 = new Road();
-            road1.createVehicule(car1);
-            road1.addFeu(220);
+            road1.createVehicule(car1, 0);
+            road1.createVehicule(car2, 10);
+            road1.addFeu(20);
 
             //road1.VehiculesOnRoad.Add(car1);
             int time = 0;

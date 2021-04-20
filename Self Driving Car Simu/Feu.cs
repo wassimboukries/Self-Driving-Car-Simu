@@ -20,7 +20,7 @@ namespace SelfDriving_car_Simu
         public bool change(int time)
         {
             bool hasChanged = false;
-            if (time % 40 == 0)
+            if (time % 20 == 0)
             {
                 hasChanged = true;
                 if (color == COLOR.VERT)

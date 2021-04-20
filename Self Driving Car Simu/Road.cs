@@ -9,7 +9,7 @@ namespace SelfDriving_car_Simu
         public static int count = 0;
         public int id = count;
         public List<int> VehiculesOnRoad = new List<int>();
-        public int length = 100; //px
+        public int length = 300; //px
         public List<Feu> feux = new List<Feu>();
 
         public Road()
@@ -23,9 +23,10 @@ namespace SelfDriving_car_Simu
             feux.Add(new Feu(position));
         }
 
-        public void createVehicule(Vehicule vehicule)
+        public void createVehicule(Vehicule vehicule, int position)
         {
             vehicule.road = this;
+            vehicule.position = position;
         }
 
         public void changeFeux(int time)
