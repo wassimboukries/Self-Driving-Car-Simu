@@ -8,7 +8,7 @@ namespace SelfDriving_car_Simu
     {
         public static int count = 0;
         public int id = count;
-        public List<int> VehiculesOnRoad = new List<int>();
+        public List<Vehicule> VehiculesOnRoad = new List<Vehicule>();
         public int length = 300; //px
         public List<Feu> feux = new List<Feu>();
 
@@ -27,13 +27,14 @@ namespace SelfDriving_car_Simu
         {
             vehicule.road = this;
             vehicule.position = position;
+            VehiculesOnRoad.Add(vehicule);
         }
 
         public void changeFeux(int time)
         {
             foreach(Feu f in feux)
             {
-                f.change(time);
+                f.change(time + f.id +12);
             } 
         }
     }

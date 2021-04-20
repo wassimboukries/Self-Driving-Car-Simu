@@ -29,24 +29,30 @@ namespace SelfDriving_car_Simu
         //Checks 
         public void checkRoad()
         {
-            foreach (Feu f in road.feux)
+            if (!checkVehicule())
             {
-                if (f.position - this.position > 10 )
+                foreach (Feu f in road.feux)
                 {
-                    break;
+                    if (f.position - this.position > 10)
+                    {
+                        //speedUp();
+                        break;
+                    }
+                    else if (f.position - this.position >= 0)
+                    {
+                        checkFeu(f);
+                        break;
+                    }
                 }
-                else if(f.position - this.position >= 0)
-                {
-                    checkFeu(f);
-                    break;
-                }
+
+                checkEndRoad();
             }
 
-            checkEndRoad();
         }
 
         public void checkFeu(Feu f)
-        {   if (speed > 0)
+        {   
+            if (speed > 0)
             {
                 if (f.color == COLOR.ROUGE)
                 {
@@ -54,7 +60,11 @@ namespace SelfDriving_car_Simu
                 }
                 else if (f.color == COLOR.ORANGE)
                 {
-                    speed -= 0.5;
+                    speed -= 1;
+                }
+                else
+                {
+                    speedUp();
                 }
             }
             else
@@ -77,10 +87,29 @@ namespace SelfDriving_car_Simu
             }
         }
 
+        public bool checkVehicule()
+        {
+            foreach (Vehicule v in road.VehiculesOnRoad)
+            {
+                if (v.position - this.position < 10 && v.position - this.position >= 0)
+                {
+                    if (v.speed < this.speed)
+                    {
+                        this.speed -= 1;
+                        return true;
+                    }
+                    else if (v.speed > this.speed)
+                    {
+                        speedUp();
+                    }
+                }
+            }
+            return false;
+        }
 
         public void speedUp()
         {
-            speed = 5;
+            speed = 4;
             //position += speed;
         }
 

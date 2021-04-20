@@ -8,19 +8,22 @@ namespace SelfDriving_car_Simu
 
     class Feu
     {
-        public int id;
+        public static int count = 0;
+        public int id = count;
         public int position;
         public COLOR color = COLOR.ROUGE;
         
         public Feu(int position)
         {
+            count++;
+            this.id = count;
             this.position = position;
         }
 
         public bool change(int time)
         {
             bool hasChanged = false;
-            if (time % 20 == 0)
+            if (time % 20 == 0 && time != 0)
             {
                 hasChanged = true;
                 if (color == COLOR.VERT)

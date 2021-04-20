@@ -1,0 +1,1005 @@
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 0  - speed : 5
+position : 1  - speed : 4
+position : 2  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 4  - speed : 4
+position : 5  - speed : 4
+position : 6  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 8  - speed : 4
+position : 9  - speed : 4
+position : 10  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 12  - speed : 4
+position : 13  - speed : 4
+position : 14  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 16  - speed : 4
+position : 17  - speed : 4
+position : 18  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 20  - speed : 4
+position : 21  - speed : 4
+position : 22  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 24  - speed : 4
+position : 25  - speed : 4
+position : 26  - speed : 4
+Feu 1: ROUGE
+Feu 2: VERT
+position : 28  - speed : 4
+position : 29  - speed : 4
+position : 30  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 32  - speed : 4
+position : 33  - speed : 4
+position : 34  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 36  - speed : 4
+position : 37  - speed : 4
+position : 38  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 40  - speed : 4
+position : 41  - speed : 4
+position : 42  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 44  - speed : 4
+position : 45  - speed : 4
+position : 46  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 48  - speed : 4
+position : 49  - speed : 4
+position : 50  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 52  - speed : 4
+position : 53  - speed : 4
+position : 54  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 56  - speed : 4
+position : 57  - speed : 4
+position : 58  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 60  - speed : 4
+position : 61  - speed : 4
+position : 62  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 64  - speed : 4
+position : 65  - speed : 4
+position : 66  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 68  - speed : 4
+position : 69  - speed : 4
+position : 70  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 72  - speed : 4
+position : 73  - speed : 4
+position : 74  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 76  - speed : 4
+position : 77  - speed : 4
+position : 78  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 80  - speed : 4
+position : 81  - speed : 4
+position : 82  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 84  - speed : 4
+position : 85  - speed : 4
+position : 86  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 88  - speed : 4
+position : 89  - speed : 4
+position : 90  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 92  - speed : 4
+position : 93  - speed : 4
+position : 94  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 96  - speed : 4
+position : 97  - speed : 4
+position : 98  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 100  - speed : 4
+position : 101  - speed : 4
+position : 102  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 104  - speed : 4
+position : 105  - speed : 4
+position : 106  - speed : 4
+Feu 1: VERT
+Feu 2: ORANGE
+position : 108  - speed : 4
+position : 109  - speed : 4
+position : 110  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 112  - speed : 4
+position : 113  - speed : 4
+position : 114  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 116  - speed : 4
+position : 117  - speed : 4
+position : 118  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 120  - speed : 4
+position : 121  - speed : 4
+position : 122  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 124  - speed : 4
+position : 125  - speed : 4
+position : 126  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 128  - speed : 4
+position : 129  - speed : 4
+position : 130  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 132  - speed : 4
+position : 133  - speed : 4
+position : 134  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 136  - speed : 4
+position : 137  - speed : 4
+position : 138  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 140  - speed : 4
+position : 141  - speed : 4
+position : 142  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 144  - speed : 4
+position : 145  - speed : 4
+position : 146  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 148  - speed : 4
+position : 149  - speed : 4
+position : 150  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 152  - speed : 4
+position : 153  - speed : 4
+position : 154  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 156  - speed : 4
+position : 157  - speed : 4
+position : 158  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 160  - speed : 4
+position : 161  - speed : 4
+position : 162  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 164  - speed : 4
+position : 165  - speed : 4
+position : 166  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 168  - speed : 4
+position : 169  - speed : 4
+position : 170  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 172  - speed : 4
+position : 173  - speed : 4
+position : 174  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 176  - speed : 4
+position : 177  - speed : 4
+position : 178  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 180  - speed : 4
+position : 181  - speed : 4
+position : 182  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 184  - speed : 4
+position : 185  - speed : 4
+position : 186  - speed : 4
+Feu 1: ORANGE
+Feu 2: ROUGE
+position : 188  - speed : 4
+position : 189  - speed : 4
+position : 190  - speed : 4
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 191  - speed : 3
+position : 192  - speed : 3
+position : 193  - speed : 3
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 193  - speed : 2
+position : 194  - speed : 2
+position : 195  - speed : 2
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 1
+position : 195  - speed : 1
+position : 196  - speed : 1
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: ROUGE
+Feu 2: VERT
+position : 194  - speed : 0
+position : 195  - speed : 0
+position : 196  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 198  - speed : 4
+position : 199  - speed : 4
+position : 200  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 202  - speed : 4
+position : 203  - speed : 4
+position : 204  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 206  - speed : 4
+position : 207  - speed : 4
+position : 208  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 210  - speed : 4
+position : 211  - speed : 4
+position : 212  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 214  - speed : 4
+position : 215  - speed : 4
+position : 216  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 218  - speed : 4
+position : 219  - speed : 4
+position : 220  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 222  - speed : 4
+position : 223  - speed : 4
+position : 224  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 226  - speed : 4
+position : 227  - speed : 4
+position : 228  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 230  - speed : 4
+position : 231  - speed : 4
+position : 232  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 234  - speed : 4
+position : 235  - speed : 4
+position : 236  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 238  - speed : 4
+position : 239  - speed : 4
+position : 240  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 242  - speed : 4
+position : 243  - speed : 4
+position : 244  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 246  - speed : 4
+position : 247  - speed : 4
+position : 248  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 250  - speed : 4
+position : 251  - speed : 4
+position : 252  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 254  - speed : 4
+position : 255  - speed : 4
+position : 256  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 258  - speed : 4
+position : 259  - speed : 4
+position : 260  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 262  - speed : 4
+position : 263  - speed : 4
+position : 264  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 266  - speed : 4
+position : 267  - speed : 4
+position : 268  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 270  - speed : 4
+position : 271  - speed : 4
+position : 272  - speed : 4
+Feu 1: VERT
+Feu 2: ORANGE
+position : 274  - speed : 4
+position : 275  - speed : 4
+position : 276  - speed : 4
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 277  - speed : 3
+position : 278  - speed : 3
+position : 279  - speed : 3
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 279  - speed : 2
+position : 280  - speed : 2
+position : 281  - speed : 2
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 1
+position : 281  - speed : 1
+position : 282  - speed : 1
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ORANGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
+Feu 1: ROUGE
+Feu 2: VERT
+position : 284  - speed : 4
+position : 285  - speed : 4
+position : 286  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 288  - speed : 4
+position : 289  - speed : 4
+position : 290  - speed : 4
+Feu 1: VERT
+Feu 2: VERT
+position : 291  - speed : 3
+position : 292  - speed : 3
+position : 293  - speed : 3
+Feu 1: VERT
+Feu 2: VERT
+position : 293  - speed : 2
+position : 294  - speed : 2
+position : 295  - speed : 2
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 1
+position : 295  - speed : 1
+position : 296  - speed : 1
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ORANGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: ROUGE
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
+Feu 1: VERT
+Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
