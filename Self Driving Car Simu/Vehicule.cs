@@ -45,6 +45,7 @@ namespace SelfDriving_car_Simu
                     }
                 }
 
+                checkPieton();
                 checkEndRoad();
             }
 
@@ -95,7 +96,7 @@ namespace SelfDriving_car_Simu
                 {
                     if (v.speed < this.speed)
                     {
-                        this.speed -= 1;
+                        this.speed--;
                         return true;
                     }
                     else if (v.speed > this.speed)
@@ -105,6 +106,30 @@ namespace SelfDriving_car_Simu
                 }
             }
             return false;
+        }
+
+        public void checkPieton()
+        {
+            
+                foreach (Piéton p in road.PiétonsOnRoad)
+                {
+                    if (p.position - this.position < 10 && p.position - this.position >= 0)
+                    {
+                        if (p.isWillingToPass || p.isPassing)
+                        {   
+
+                            Console.WriteLine("aa");
+                            if (speed > 0)
+                                speed--;
+                        }
+                        else
+                        {
+                            Console.WriteLine("bb");
+                            speedUp();
+                        }
+                    }
+                }
+            
         }
 
         public void speedUp()
