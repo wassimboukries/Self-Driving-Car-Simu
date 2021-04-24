@@ -15,6 +15,9 @@ namespace SelfDriving_car_Simu
             Vehicule car3 = new Vehicule();
             Piéton pieton1 = new Piéton(30, 8);
             Road road1 = new Road();
+            RondPoint rondPoint = new RondPoint(45);
+            rondPoint.addVehiculeIsPassing(11);
+            rondPoint.addVehiculeIsPassing(12);
             road1.addVehiculeToRoad(car1, 0);
             road1.addVehiculeToRoad(car2, 1);
             road1.addVehiculeToRoad(car3, 2);
@@ -24,6 +27,7 @@ namespace SelfDriving_car_Simu
 
             road1.addPietonToRoad(pieton1);
 
+            road1.addRondPoint(rondPoint);
             //road1.VehiculesOnRoad.Add(car1);
             using (StreamWriter writer = new StreamWriter("../../../Result.txt"))
             {
@@ -43,6 +47,8 @@ namespace SelfDriving_car_Simu
                     car3.makeAction();
                     car2.makeAction();
                     car1.makeAction();
+
+                    rondPoint.crossRondPoint(time);
 
                     writer.WriteLine($"Time: {time}");
                     writer.WriteLine($"Feu 1: {road1.feux[0].color}");

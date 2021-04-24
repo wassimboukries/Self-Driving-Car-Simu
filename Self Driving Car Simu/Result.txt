@@ -87,1122 +87,1122 @@ position : 36  - speed : 4
 Time: 13
 Feu 1: VERT
 Feu 2: VERT
-position : 38  - speed : 4
-position : 39  - speed : 4
-position : 40  - speed : 4
+position : 37  - speed : 3
+position : 38  - speed : 3
+position : 39  - speed : 3
 Time: 14
 Feu 1: VERT
 Feu 2: VERT
-position : 42  - speed : 4
-position : 43  - speed : 4
-position : 44  - speed : 4
+position : 39  - speed : 2
+position : 40  - speed : 2
+position : 41  - speed : 2
 Time: 15
 Feu 1: VERT
 Feu 2: VERT
-position : 46  - speed : 4
-position : 47  - speed : 4
-position : 48  - speed : 4
+position : 40  - speed : 1
+position : 41  - speed : 1
+position : 42  - speed : 1
 Time: 16
 Feu 1: VERT
 Feu 2: VERT
-position : 50  - speed : 4
-position : 51  - speed : 4
-position : 52  - speed : 4
+position : 40  - speed : 0
+position : 41  - speed : 0
+position : 42  - speed : 0
 Time: 17
 Feu 1: VERT
 Feu 2: VERT
-position : 54  - speed : 4
-position : 55  - speed : 4
-position : 56  - speed : 4
+position : 44  - speed : 4
+position : 45  - speed : 4
+position : 46  - speed : 4
 Time: 18
 Feu 1: VERT
 Feu 2: VERT
-position : 58  - speed : 4
-position : 59  - speed : 4
-position : 60  - speed : 4
+position : 48  - speed : 4
+position : 49  - speed : 4
+position : 50  - speed : 4
 Time: 19
 Feu 1: VERT
 Feu 2: VERT
-position : 62  - speed : 4
-position : 63  - speed : 4
-position : 64  - speed : 4
+position : 52  - speed : 4
+position : 53  - speed : 4
+position : 54  - speed : 4
 Time: 20
 Feu 1: VERT
 Feu 2: VERT
-position : 66  - speed : 4
-position : 67  - speed : 4
-position : 68  - speed : 4
+position : 56  - speed : 4
+position : 57  - speed : 4
+position : 58  - speed : 4
 Time: 21
 Feu 1: VERT
 Feu 2: VERT
-position : 70  - speed : 4
-position : 71  - speed : 4
-position : 72  - speed : 4
+position : 60  - speed : 4
+position : 61  - speed : 4
+position : 62  - speed : 4
 Time: 22
 Feu 1: VERT
 Feu 2: VERT
-position : 74  - speed : 4
-position : 75  - speed : 4
-position : 76  - speed : 4
+position : 64  - speed : 4
+position : 65  - speed : 4
+position : 66  - speed : 4
 Time: 23
 Feu 1: VERT
 Feu 2: VERT
-position : 78  - speed : 4
-position : 79  - speed : 4
-position : 80  - speed : 4
+position : 68  - speed : 4
+position : 69  - speed : 4
+position : 70  - speed : 4
 Time: 24
 Feu 1: VERT
 Feu 2: VERT
-position : 82  - speed : 4
-position : 83  - speed : 4
-position : 84  - speed : 4
+position : 72  - speed : 4
+position : 73  - speed : 4
+position : 74  - speed : 4
 Time: 25
 Feu 1: VERT
 Feu 2: VERT
-position : 86  - speed : 4
-position : 87  - speed : 4
-position : 88  - speed : 4
+position : 76  - speed : 4
+position : 77  - speed : 4
+position : 78  - speed : 4
 Time: 26
 Feu 1: VERT
 Feu 2: ORANGE
-position : 90  - speed : 4
-position : 91  - speed : 4
-position : 92  - speed : 4
+position : 80  - speed : 4
+position : 81  - speed : 4
+position : 82  - speed : 4
 Time: 27
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 94  - speed : 4
-position : 95  - speed : 4
-position : 96  - speed : 4
+position : 84  - speed : 4
+position : 85  - speed : 4
+position : 86  - speed : 4
 Time: 28
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 98  - speed : 4
-position : 99  - speed : 4
-position : 100  - speed : 4
+position : 88  - speed : 4
+position : 89  - speed : 4
+position : 90  - speed : 4
 Time: 29
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 102  - speed : 4
-position : 103  - speed : 4
-position : 104  - speed : 4
+position : 92  - speed : 4
+position : 93  - speed : 4
+position : 94  - speed : 4
 Time: 30
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 106  - speed : 4
-position : 107  - speed : 4
-position : 108  - speed : 4
+position : 96  - speed : 4
+position : 97  - speed : 4
+position : 98  - speed : 4
 Time: 31
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 110  - speed : 4
-position : 111  - speed : 4
-position : 112  - speed : 4
+position : 100  - speed : 4
+position : 101  - speed : 4
+position : 102  - speed : 4
 Time: 32
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 114  - speed : 4
-position : 115  - speed : 4
-position : 116  - speed : 4
+position : 104  - speed : 4
+position : 105  - speed : 4
+position : 106  - speed : 4
 Time: 33
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 118  - speed : 4
-position : 119  - speed : 4
-position : 120  - speed : 4
+position : 108  - speed : 4
+position : 109  - speed : 4
+position : 110  - speed : 4
 Time: 34
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 122  - speed : 4
-position : 123  - speed : 4
-position : 124  - speed : 4
+position : 112  - speed : 4
+position : 113  - speed : 4
+position : 114  - speed : 4
 Time: 35
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 126  - speed : 4
-position : 127  - speed : 4
-position : 128  - speed : 4
+position : 116  - speed : 4
+position : 117  - speed : 4
+position : 118  - speed : 4
 Time: 36
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 130  - speed : 4
-position : 131  - speed : 4
-position : 132  - speed : 4
+position : 120  - speed : 4
+position : 121  - speed : 4
+position : 122  - speed : 4
 Time: 37
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 134  - speed : 4
-position : 135  - speed : 4
-position : 136  - speed : 4
+position : 124  - speed : 4
+position : 125  - speed : 4
+position : 126  - speed : 4
 Time: 38
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 138  - speed : 4
-position : 139  - speed : 4
-position : 140  - speed : 4
+position : 128  - speed : 4
+position : 129  - speed : 4
+position : 130  - speed : 4
 Time: 39
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 142  - speed : 4
-position : 143  - speed : 4
-position : 144  - speed : 4
+position : 132  - speed : 4
+position : 133  - speed : 4
+position : 134  - speed : 4
 Time: 40
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 146  - speed : 4
-position : 147  - speed : 4
-position : 148  - speed : 4
+position : 136  - speed : 4
+position : 137  - speed : 4
+position : 138  - speed : 4
 Time: 41
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 150  - speed : 4
-position : 151  - speed : 4
-position : 152  - speed : 4
+position : 140  - speed : 4
+position : 141  - speed : 4
+position : 142  - speed : 4
 Time: 42
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 154  - speed : 4
-position : 155  - speed : 4
-position : 156  - speed : 4
+position : 144  - speed : 4
+position : 145  - speed : 4
+position : 146  - speed : 4
 Time: 43
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 158  - speed : 4
-position : 159  - speed : 4
-position : 160  - speed : 4
+position : 148  - speed : 4
+position : 149  - speed : 4
+position : 150  - speed : 4
 Time: 44
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 162  - speed : 4
-position : 163  - speed : 4
-position : 164  - speed : 4
+position : 152  - speed : 4
+position : 153  - speed : 4
+position : 154  - speed : 4
 Time: 45
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 166  - speed : 4
-position : 167  - speed : 4
-position : 168  - speed : 4
+position : 156  - speed : 4
+position : 157  - speed : 4
+position : 158  - speed : 4
 Time: 46
 Feu 1: ORANGE
 Feu 2: ROUGE
-position : 170  - speed : 4
-position : 171  - speed : 4
-position : 172  - speed : 4
+position : 160  - speed : 4
+position : 161  - speed : 4
+position : 162  - speed : 4
 Time: 47
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 174  - speed : 4
-position : 175  - speed : 4
-position : 176  - speed : 4
+position : 164  - speed : 4
+position : 165  - speed : 4
+position : 166  - speed : 4
 Time: 48
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 178  - speed : 4
-position : 179  - speed : 4
-position : 180  - speed : 4
+position : 168  - speed : 4
+position : 169  - speed : 4
+position : 170  - speed : 4
 Time: 49
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 182  - speed : 4
-position : 183  - speed : 4
-position : 184  - speed : 4
+position : 172  - speed : 4
+position : 173  - speed : 4
+position : 174  - speed : 4
 Time: 50
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 186  - speed : 4
-position : 187  - speed : 4
-position : 188  - speed : 4
+position : 176  - speed : 4
+position : 177  - speed : 4
+position : 178  - speed : 4
 Time: 51
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 190  - speed : 4
-position : 191  - speed : 4
-position : 192  - speed : 4
+position : 180  - speed : 4
+position : 181  - speed : 4
+position : 182  - speed : 4
 Time: 52
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 193  - speed : 3
-position : 194  - speed : 3
-position : 195  - speed : 3
+position : 184  - speed : 4
+position : 185  - speed : 4
+position : 186  - speed : 4
 Time: 53
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 195  - speed : 2
-position : 196  - speed : 2
-position : 197  - speed : 2
+position : 188  - speed : 4
+position : 189  - speed : 4
+position : 190  - speed : 4
 Time: 54
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 196  - speed : 1
-position : 197  - speed : 1
-position : 198  - speed : 1
+position : 191  - speed : 3
+position : 192  - speed : 3
+position : 193  - speed : 3
 Time: 55
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
+position : 193  - speed : 2
+position : 194  - speed : 2
+position : 195  - speed : 2
 Time: 56
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
+position : 194  - speed : 1
+position : 195  - speed : 1
+position : 196  - speed : 1
 Time: 57
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 58
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 59
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 60
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 61
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 62
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 63
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 64
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 65
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 66
 Feu 1: ROUGE
 Feu 2: VERT
+position : 194  - speed : 0
+position : 195  - speed : 0
 position : 196  - speed : 0
-position : 197  - speed : 0
-position : 198  - speed : 0
 Time: 67
 Feu 1: VERT
 Feu 2: VERT
+position : 198  - speed : 4
+position : 199  - speed : 4
 position : 200  - speed : 4
-position : 201  - speed : 4
-position : 202  - speed : 4
 Time: 68
 Feu 1: VERT
 Feu 2: VERT
+position : 202  - speed : 4
+position : 203  - speed : 4
 position : 204  - speed : 4
-position : 205  - speed : 4
-position : 206  - speed : 4
 Time: 69
 Feu 1: VERT
 Feu 2: VERT
+position : 206  - speed : 4
+position : 207  - speed : 4
 position : 208  - speed : 4
-position : 209  - speed : 4
-position : 210  - speed : 4
 Time: 70
 Feu 1: VERT
 Feu 2: VERT
+position : 210  - speed : 4
+position : 211  - speed : 4
 position : 212  - speed : 4
-position : 213  - speed : 4
-position : 214  - speed : 4
 Time: 71
 Feu 1: VERT
 Feu 2: VERT
+position : 214  - speed : 4
+position : 215  - speed : 4
 position : 216  - speed : 4
-position : 217  - speed : 4
-position : 218  - speed : 4
 Time: 72
 Feu 1: VERT
 Feu 2: VERT
+position : 218  - speed : 4
+position : 219  - speed : 4
 position : 220  - speed : 4
-position : 221  - speed : 4
-position : 222  - speed : 4
 Time: 73
 Feu 1: VERT
 Feu 2: VERT
+position : 222  - speed : 4
+position : 223  - speed : 4
 position : 224  - speed : 4
-position : 225  - speed : 4
-position : 226  - speed : 4
 Time: 74
 Feu 1: VERT
 Feu 2: VERT
+position : 226  - speed : 4
+position : 227  - speed : 4
 position : 228  - speed : 4
-position : 229  - speed : 4
-position : 230  - speed : 4
 Time: 75
 Feu 1: VERT
 Feu 2: VERT
+position : 230  - speed : 4
+position : 231  - speed : 4
 position : 232  - speed : 4
-position : 233  - speed : 4
-position : 234  - speed : 4
 Time: 76
 Feu 1: VERT
 Feu 2: VERT
+position : 234  - speed : 4
+position : 235  - speed : 4
 position : 236  - speed : 4
-position : 237  - speed : 4
-position : 238  - speed : 4
 Time: 77
 Feu 1: VERT
 Feu 2: VERT
+position : 238  - speed : 4
+position : 239  - speed : 4
 position : 240  - speed : 4
-position : 241  - speed : 4
-position : 242  - speed : 4
 Time: 78
 Feu 1: VERT
 Feu 2: VERT
+position : 242  - speed : 4
+position : 243  - speed : 4
 position : 244  - speed : 4
-position : 245  - speed : 4
-position : 246  - speed : 4
 Time: 79
 Feu 1: VERT
 Feu 2: VERT
+position : 246  - speed : 4
+position : 247  - speed : 4
 position : 248  - speed : 4
-position : 249  - speed : 4
-position : 250  - speed : 4
 Time: 80
 Feu 1: VERT
 Feu 2: VERT
+position : 250  - speed : 4
+position : 251  - speed : 4
 position : 252  - speed : 4
-position : 253  - speed : 4
-position : 254  - speed : 4
 Time: 81
 Feu 1: VERT
 Feu 2: VERT
+position : 254  - speed : 4
+position : 255  - speed : 4
 position : 256  - speed : 4
-position : 257  - speed : 4
-position : 258  - speed : 4
 Time: 82
 Feu 1: VERT
 Feu 2: VERT
+position : 258  - speed : 4
+position : 259  - speed : 4
 position : 260  - speed : 4
-position : 261  - speed : 4
-position : 262  - speed : 4
 Time: 83
 Feu 1: VERT
 Feu 2: VERT
+position : 262  - speed : 4
+position : 263  - speed : 4
 position : 264  - speed : 4
-position : 265  - speed : 4
-position : 266  - speed : 4
 Time: 84
 Feu 1: VERT
 Feu 2: VERT
+position : 266  - speed : 4
+position : 267  - speed : 4
 position : 268  - speed : 4
-position : 269  - speed : 4
-position : 270  - speed : 4
 Time: 85
 Feu 1: VERT
 Feu 2: VERT
+position : 270  - speed : 4
+position : 271  - speed : 4
 position : 272  - speed : 4
-position : 273  - speed : 4
-position : 274  - speed : 4
 Time: 86
 Feu 1: VERT
 Feu 2: ORANGE
-position : 275  - speed : 3
-position : 276  - speed : 3
-position : 277  - speed : 3
+position : 274  - speed : 4
+position : 275  - speed : 4
+position : 276  - speed : 4
 Time: 87
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 277  - speed : 2
-position : 278  - speed : 2
-position : 279  - speed : 2
+position : 277  - speed : 3
+position : 278  - speed : 3
+position : 279  - speed : 3
 Time: 88
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 1
-position : 279  - speed : 1
-position : 280  - speed : 1
+position : 279  - speed : 2
+position : 280  - speed : 2
+position : 281  - speed : 2
 Time: 89
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
-position : 280  - speed : 0
+position : 280  - speed : 1
+position : 281  - speed : 1
+position : 282  - speed : 1
 Time: 90
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 91
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 92
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 93
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 94
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 95
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 96
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 97
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 98
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 99
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 100
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 101
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 102
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 103
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 104
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 105
 Feu 1: ORANGE
 Feu 2: ORANGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 106
 Feu 1: ORANGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 107
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 108
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 109
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 110
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 111
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 112
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 113
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 114
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 115
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 116
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 117
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 118
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 119
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 120
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 121
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 122
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 123
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 124
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 125
 Feu 1: ROUGE
 Feu 2: ROUGE
-position : 278  - speed : 0
-position : 279  - speed : 0
 position : 280  - speed : 0
+position : 281  - speed : 0
+position : 282  - speed : 0
 Time: 126
 Feu 1: ROUGE
 Feu 2: VERT
-position : 282  - speed : 4
-position : 283  - speed : 4
 position : 284  - speed : 4
+position : 285  - speed : 4
+position : 286  - speed : 4
 Time: 127
 Feu 1: VERT
 Feu 2: VERT
-position : 286  - speed : 4
-position : 287  - speed : 4
 position : 288  - speed : 4
+position : 289  - speed : 4
+position : 290  - speed : 4
 Time: 128
 Feu 1: VERT
 Feu 2: VERT
-position : 290  - speed : 4
-position : 291  - speed : 4
-position : 292  - speed : 4
+position : 291  - speed : 3
+position : 292  - speed : 3
+position : 293  - speed : 3
 Time: 129
 Feu 1: VERT
 Feu 2: VERT
-position : 293  - speed : 3
-position : 294  - speed : 3
-position : 295  - speed : 3
+position : 293  - speed : 2
+position : 294  - speed : 2
+position : 295  - speed : 2
 Time: 130
 Feu 1: VERT
 Feu 2: VERT
-position : 295  - speed : 2
-position : 296  - speed : 2
-position : 297  - speed : 2
+position : 294  - speed : 1
+position : 295  - speed : 1
+position : 296  - speed : 1
 Time: 131
 Feu 1: VERT
 Feu 2: VERT
-position : 296  - speed : 1
-position : 297  - speed : 1
-position : 298  - speed : 1
+position : 294  - speed : 0
+position : 295  - speed : 0
+position : 296  - speed : 0
 Time: 132
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 133
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 134
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 135
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 136
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 137
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 138
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 139
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 140
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 141
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 142
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 143
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 144
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 145
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 146
 Feu 1: VERT
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 147
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 148
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 149
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 150
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 151
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 152
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 153
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 154
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 155
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 156
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 157
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 158
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 159
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 160
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 161
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 162
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 163
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 164
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 165
 Feu 1: ORANGE
 Feu 2: ORANGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 166
 Feu 1: ORANGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 167
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 168
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 169
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 170
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 171
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 172
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 173
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 174
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 175
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 176
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 177
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 178
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 179
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 180
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 181
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 182
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 183
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 184
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 185
 Feu 1: ROUGE
 Feu 2: ROUGE
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 186
 Feu 1: ROUGE
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 187
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 188
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 189
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 190
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 191
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 192
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 193
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 194
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 195
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 196
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 197
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 198
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0
 Time: 199
 Feu 1: VERT
 Feu 2: VERT
+position : 294  - speed : 0
+position : 295  - speed : 0
 position : 296  - speed : 0
-position : 297  - speed : 0
-position : 298  - speed : 0

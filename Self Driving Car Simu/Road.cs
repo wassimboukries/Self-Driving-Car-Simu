@@ -13,6 +13,7 @@ namespace SelfDriving_car_Simu
         public List<Feu> feux = new List<Feu>();
         public List<Vehicule> VehiculesOnRoad = new List<Vehicule>();
         public List<Piéton> PiétonsOnRoad = new List<Piéton>();
+        public List<RondPoint> RondPointsOnRoad = new List<RondPoint>();
 
         public Road()
         {
@@ -34,8 +35,12 @@ namespace SelfDriving_car_Simu
 
         public void addPietonToRoad(Piéton pieton)
         {
-            pieton.road = this;
             PiétonsOnRoad.Add(pieton);
+        }
+
+        public void addRondPoint(RondPoint rondPoint)
+        {
+            RondPointsOnRoad.Add(rondPoint);
         }
 
         public void changeFeux(int time)

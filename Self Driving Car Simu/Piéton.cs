@@ -12,7 +12,7 @@ namespace SelfDriving_car_Simu
         public bool isWillingToPass = false;
         const int passageDuration = 3;
         public int currentPassageDuration = 0;
-        public Road road;
+        //public Road road;
 
         public Piéton(int position, int passageTime)
         {

@@ -11,7 +11,7 @@ namespace SelfDriving_car_Simu
         public double position = 0;//px
         public List<int> NeighboursLeft = new List<int>();
         public List<int> NeighboursFront = new List<int>();
-        public Road road; 
+        public Road road;
 
         public Vehicule()
         {
@@ -44,8 +44,9 @@ namespace SelfDriving_car_Simu
                         break;
                     }
                 }
-
+                
                 checkPieton();
+                checkRondPoint();
                 checkEndRoad();
             }
 
@@ -117,19 +118,35 @@ namespace SelfDriving_car_Simu
                     {
                         if (p.isWillingToPass || p.isPassing)
                         {   
-
-                            Console.WriteLine("aa");
                             if (speed > 0)
                                 speed--;
                         }
                         else
                         {
-                            Console.WriteLine("bb");
                             speedUp();
                         }
                     }
+
                 }
-            
+        }
+
+        public void checkRondPoint()
+        {
+            foreach (RondPoint rp in road.RondPointsOnRoad)
+            {
+                if (rp.position - this.position < 10 && rp.position - this.position >= 0)
+                {
+                    if (!rp.isEmpty())
+                    { 
+                        if (speed > 0)
+                            speed--;
+                    }
+                    else
+                    {
+                        speedUp();
+                    }
+                }
+            }
         }
 
         public void speedUp()
