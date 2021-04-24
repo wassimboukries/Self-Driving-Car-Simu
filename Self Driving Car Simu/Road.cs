@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Text;
 
 namespace SelfDriving_car_Simu
@@ -7,7 +9,7 @@ namespace SelfDriving_car_Simu
     class Road
     {
         public static int count = 0;
-        public int id = count;
+        public int id { get; set; }
         
         public int length = 300; //px
         public List<Feu> feux = new List<Feu>();
@@ -21,34 +23,63 @@ namespace SelfDriving_car_Simu
             id = count;
         }
 
-        public void addFeu(int position)
+        public void addFeuToRoad(int position)
         {
             feux.Add(new Feu(position));
         }
 
-        public void addVehiculeToRoad(Vehicule vehicule, int position)
+        public void addVehiculeToRoad(int position)
         {
-            vehicule.road = this;
-            vehicule.position = position;
-            VehiculesOnRoad.Add(vehicule);
+            Vehicule newV= new Vehicule();
+            newV.road = this;
+            newV.position = position;
+            VehiculesOnRoad.Add(newV);
+            VehiculesOnRoad = VehiculesOnRoad.OrderByDescending(v => v.position).ToList();
         }
 
-        public void addPietonToRoad(Piéton pieton)
+        public void addPietonToRoad(int position)
         {
-            PiétonsOnRoad.Add(pieton);
+            Piéton newPieton = new Piéton(position, 8);
+            PiétonsOnRoad.Add(newPieton);
         }
 
-        public void addRondPoint(RondPoint rondPoint)
+        public void addRondPointToRoad(int position)
         {
+            RondPoint rondPoint = new RondPoint(position);
             RondPointsOnRoad.Add(rondPoint);
         }
 
-        public void changeFeux(int time)
+        public void makeAction(int time, StreamWriter writer)
         {
             foreach(Feu f in feux)
             {
-                f.change(time + f.id +12);
-            } 
+                f.makeAction(time + f.id +12);
+                writer.WriteLine($"Feu n°: {f.id} - position: {f.position} - Color: {f.color}");
+            }
+
+            foreach (Piéton p in PiétonsOnRoad)
+            {
+                p.makeAction(time);
+                if (p.isPassing)
+                    writer.WriteLine($"################ Piéton {p.id} in position {p.position} is Passing ################");
+            }
+
+            foreach (Vehicule v in VehiculesOnRoad)
+            {
+                v.makeAction(time);
+                writer.WriteLine($"Car n°: {v.id} - position: {v.position} - speed : {v.speed}");
+            }
+
+            foreach (RondPoint rp in RondPointsOnRoad)
+            {
+                rp.makeAction(time);
+                foreach (bool passing in rp.isPassing)
+                {
+                    if (passing)
+                        writer.WriteLine($"################ Rond Point {rp.id} in position {rp.position} is not empty ################");
+                }
+            }
+
         }
     }
 }

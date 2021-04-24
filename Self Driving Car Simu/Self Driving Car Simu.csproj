@@ -6,4 +6,12 @@
     <RootNamespace>Self_Driving_Car_Simu</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ICommonAttributes.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="NewFile1.txt" />
+  </ItemGroup>
+
 </Project>

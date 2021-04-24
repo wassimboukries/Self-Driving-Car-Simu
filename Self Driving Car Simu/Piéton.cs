@@ -4,23 +4,26 @@ using System.Text;
 
 namespace SelfDriving_car_Simu
 {
-    class Piéton
+    class Piéton : IEnvironnement
     {
-        public int position;
+        public static int count;
+        public int id { get; set; }
+        public int position { get; set; }
         public int passageTime;
         public bool isPassing = false;
         public bool isWillingToPass = false;
         const int passageDuration = 3;
         public int currentPassageDuration = 0;
-        //public Road road;
 
         public Piéton(int position, int passageTime)
         {
+            count++;
+            id = count;
             this.position = position;
             this.passageTime = passageTime;
         }
 
-        public void crossRoad(int time)
+        public void makeAction(int time)
         {
             if (time == passageTime)
             {

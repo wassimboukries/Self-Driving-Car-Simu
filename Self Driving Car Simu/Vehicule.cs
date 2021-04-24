@@ -3,24 +3,23 @@ using System.Collections.Generic;
 
 namespace SelfDriving_car_Simu
 {
-    class Vehicule
+    class Vehicule : IEnvironnement
     {
         public static int count = 0;
-        public int id = count;
-        public double speed = 0;
-        public double position = 0;//px
-        public List<int> NeighboursLeft = new List<int>();
-        public List<int> NeighboursFront = new List<int>();
+        public int id { get; set; }
+        public int speed = 0;
+        public int position { get; set; }
         public Road road;
 
         public Vehicule()
         {
             count++;
             this.id = count;
+            position = 0;
             speedUp();
         }
 
-        public void makeAction()
+        public void makeAction(int time)
         {
             checkRoad();
             position += speed;
@@ -29,40 +28,14 @@ namespace SelfDriving_car_Simu
         //Checks 
         public void checkRoad()
         {
+            //
             if (!checkVehicule())
             {
-                foreach (Feu f in road.feux)
+                if (checkPieton() || checkRondPoint() || checkEndRoad() || checkFeu())
                 {
-                    if (f.position - this.position > 10)
-                    {
-                        //speedUp();
-                        break;
-                    }
-                    else if (f.position - this.position >= 0)
-                    {
-                        checkFeu(f);
-                        break;
-                    }
-                }
-                
-                checkPieton();
-                checkRondPoint();
-                checkEndRoad();
-            }
-
-        }
-
-        public void checkFeu(Feu f)
-        {   
-            if (speed > 0)
-            {
-                if (f.color == COLOR.ROUGE)
-                {
-                    speed -= 1;
-                }
-                else if (f.color == COLOR.ORANGE)
-                {
-                    speed -= 1;
+                    //
+                    if (speed > 0)
+                        speedDown();
                 }
                 else
                 {
@@ -71,22 +44,53 @@ namespace SelfDriving_car_Simu
             }
             else
             {
+                if (speed > 0)
+                    speedDown();
+            }
+        }
+
+        public bool checkFeu()
+        {
+            foreach (Feu f in road.feux)
+            {
+                if (f.position - this.position > 10)
+                {
+                    //speedUp();
+                    break;
+                }
+                else if (f.position - this.position >= 0)
+                {
+                    if (f.color == COLOR.ROUGE)
+                        {
+                            return true;
+                        }
+                        else if (f.color == COLOR.ORANGE)
+                        {
+                            return true;
+                        }
+                    break;
+                }
+            }
+            return false;
+        /*
+            else
+            {
                 if (f.color == COLOR.VERT)
                 {
                     speedUp();
                 }
-            }
+            }*/
+            
         }
 
-        public void checkEndRoad()
+        public bool checkEndRoad()
         {
-            if (speed > 0)
-            {
-                if (road.length <= this.position + 10)
-                {
-                    speed -= 1;
-                }
-            }
+           if (road.length <= this.position + 10)
+           {
+                //speed -= 1;
+                return true;
+           }
+           return false;
         }
 
         public bool checkVehicule()
@@ -97,78 +101,71 @@ namespace SelfDriving_car_Simu
                 {
                     if (v.speed < this.speed)
                     {
-                        this.speed--;
+                        //this.speed--;
                         return true;
                     }
-                    else if (v.speed > this.speed)
+                    /*else if (v.speed > this.speed)
                     {
                         speedUp();
-                    }
+                    }*/
                 }
             }
             return false;
         }
 
-        public void checkPieton()
+        public bool checkPieton()
         {
-            
-                foreach (Piéton p in road.PiétonsOnRoad)
-                {
+            foreach (Piéton p in road.PiétonsOnRoad)
+            {
                     if (p.position - this.position < 10 && p.position - this.position >= 0)
                     {
                         if (p.isWillingToPass || p.isPassing)
-                        {   
-                            if (speed > 0)
-                                speed--;
+                        {
+                            //speed--;
+                            return true;
                         }
-                        else
+                        /*else
                         {
                             speedUp();
-                        }
+                        }*/
                     }
+                    /*else
+                    {
+                        speedUp();
+                    }*/
 
-                }
+            }
+            return false;
         }
 
-        public void checkRondPoint()
+        public bool checkRondPoint()
         {
             foreach (RondPoint rp in road.RondPointsOnRoad)
             {
                 if (rp.position - this.position < 10 && rp.position - this.position >= 0)
                 {
                     if (!rp.isEmpty())
-                    { 
-                        if (speed > 0)
-                            speed--;
+                    {
+                            //speed--;
+                            return true;
                     }
-                    else
+                    /*else
                     {
                         speedUp();
-                    }
+                    }*/
                 }
             }
+            return false;
         }
 
         public void speedUp()
         {
             speed = 4;
-            //position += speed;
         }
 
         public void speedDown()
         {
             speed--;
-            //position -= speed;
-        }
-
-        public void addLeftNeighbour(int id)
-        {
-            NeighboursLeft.Add(id);
-        }
-
-        public void addFrontNeighbour(int id)
-        {
-            NeighboursFront.Add(id);
         }
     }
 }

@@ -6,11 +6,11 @@ namespace SelfDriving_car_Simu
 {
     enum COLOR {VERT, ORANGE, ROUGE}
 
-    class Feu
+    class Feu : IEnvironnement
     {
         public static int count = 0;
-        public int id = count;
-        public int position;
+        public int id { get; set; }
+        public int position { get; set; }
         public COLOR color = COLOR.ROUGE;
         
         public Feu(int position)
@@ -20,12 +20,10 @@ namespace SelfDriving_car_Simu
             this.position = position;
         }
 
-        public bool change(int time)
+        public void makeAction(int time)
         {
-            bool hasChanged = false;
             if (time % 20 == 0 && time != 0)
             {
-                hasChanged = true;
                 if (color == COLOR.VERT)
                 {
                     color = COLOR.ORANGE;
@@ -39,7 +37,6 @@ namespace SelfDriving_car_Simu
                     color = COLOR.VERT;
                 }
             }
-            return hasChanged;
         }
     }
 }
