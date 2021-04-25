@@ -10,9 +10,8 @@ namespace SelfDriving_car_Simu
     {
         public static int count = 0;
         public int id { get; set; }
-        
         public int length = 300; //px
-        public List<Feu> feux = new List<Feu>();
+        public List<Feu> FeuxOnRoad = new List<Feu>();
         public List<Vehicule> VehiculesOnRoad = new List<Vehicule>();
         public List<Piéton> PiétonsOnRoad = new List<Piéton>();
         public List<RondPoint> RondPointsOnRoad = new List<RondPoint>();
@@ -25,7 +24,7 @@ namespace SelfDriving_car_Simu
 
         public void addFeuToRoad(int position)
         {
-            feux.Add(new Feu(position));
+            FeuxOnRoad.Add(new Feu(position));
         }
 
         public void addVehiculeToRoad(int position)
@@ -51,7 +50,7 @@ namespace SelfDriving_car_Simu
 
         public void makeAction(int time, StreamWriter writer)
         {
-            foreach(Feu f in feux)
+            foreach(Feu f in FeuxOnRoad)
             {
                 f.makeAction(time + f.id +12);
                 writer.WriteLine($"Feu n°: {f.id} - position: {f.position} - Color: {f.color}");

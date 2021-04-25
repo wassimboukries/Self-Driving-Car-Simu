@@ -7,11 +7,11 @@ namespace SelfDriving_car_Simu
     class RondPoint: IEnvironnement
     {
         public static int count;
-        public int id { get; set; }
+        public int id { get; set; } 
+        public int position { get; set; }
         public List<bool> isPassing = new List<bool>();
         public List<int> currentPassageDurations = new List<int>();
         public List<int> timeEntreeVehiculesOnRondPoint = new List<int>();
-        public int position { get; set; }
         public int passageDuration = 4;
 
         public RondPoint()

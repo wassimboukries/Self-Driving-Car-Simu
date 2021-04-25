@@ -51,11 +51,10 @@ namespace SelfDriving_car_Simu
 
         public bool checkFeu()
         {
-            foreach (Feu f in road.feux)
+            foreach (Feu f in road.FeuxOnRoad)
             {
                 if (f.position - this.position > 10)
                 {
-                    //speedUp();
                     break;
                 }
                 else if (f.position - this.position >= 0)
@@ -72,22 +71,12 @@ namespace SelfDriving_car_Simu
                 }
             }
             return false;
-        /*
-            else
-            {
-                if (f.color == COLOR.VERT)
-                {
-                    speedUp();
-                }
-            }*/
-            
         }
 
         public bool checkEndRoad()
         {
            if (road.length <= this.position + 10)
-           {
-                //speed -= 1;
+           { 
                 return true;
            }
            return false;
@@ -101,13 +90,8 @@ namespace SelfDriving_car_Simu
                 {
                     if (v.speed < this.speed)
                     {
-                        //this.speed--;
                         return true;
                     }
-                    /*else if (v.speed > this.speed)
-                    {
-                        speedUp();
-                    }*/
                 }
             }
             return false;
@@ -121,19 +105,9 @@ namespace SelfDriving_car_Simu
                     {
                         if (p.isWillingToPass || p.isPassing)
                         {
-                            //speed--;
                             return true;
                         }
-                        /*else
-                        {
-                            speedUp();
-                        }*/
                     }
-                    /*else
-                    {
-                        speedUp();
-                    }*/
-
             }
             return false;
         }
@@ -146,13 +120,8 @@ namespace SelfDriving_car_Simu
                 {
                     if (!rp.isEmpty())
                     {
-                            //speed--;
                             return true;
                     }
-                    /*else
-                    {
-                        speedUp();
-                    }*/
                 }
             }
             return false;

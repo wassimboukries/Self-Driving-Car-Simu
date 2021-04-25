@@ -46,7 +46,6 @@ namespace SelfDriving_car_Simu
             {
                 isWillingToPass = true;
             }
-
         }
 
         

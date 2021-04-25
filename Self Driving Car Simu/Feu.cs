@@ -32,7 +32,7 @@ namespace SelfDriving_car_Simu
                 {
                     color = COLOR.ROUGE;
                 }
-                else if (color == COLOR.ROUGE)
+                else
                 {
                     color = COLOR.VERT;
                 }
